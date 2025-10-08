@@ -2,3 +2,6 @@
 .venv
 02_airflow/.env
 04_olap/.env
+
+
+./**/.ipynb_checkpoints/ 
